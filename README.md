@@ -1,3 +1,1 @@
-This account is a backup.
-
-More information, see [MingxuanGame](https://github.com/MingxuanGame)
+[MingxuanAWA](https://github.com/MingxuanAWA) is [MingxuanGame](https://github.com/MingxuanGame).
